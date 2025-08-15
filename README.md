@@ -9,3 +9,7 @@ Thank You.
 Made a discovery about myself. The opposite of Addiction in Connection.<br>
 Basically ifyou have healthy bonds with friends, family, then you won't get addicted to the unhealthy stuff. The more lonely you are the higher probability it is for you to get addicted to gambling, games, pornography.<br>
 So yeah try to find and have a good environment surround you, life will fix itself.
+<br>
+15-08-25<br>
+
+Trying to check Git Status command

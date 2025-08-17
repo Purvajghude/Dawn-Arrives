@@ -14,3 +14,9 @@ So yeah try to find and have a good environment surround you, life will fix itse
 
 Trying to check Git Status 
 
+<br>
+
+17-08-25 <br>
+
+Learned to use Tablet as a 2nd monitor after configuring Spacedesk setup. Vertical monitors are such a clutch for coding.
+

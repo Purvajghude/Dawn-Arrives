@@ -22,4 +22,8 @@ Learned to use Tablet as a 2nd monitor after configuring Spacedesk setup. Vertic
 
 18-08-25<br>
 
-Learnt about the Token system used in AI, and how it works theoretically and mathematically. 
+Learnt about the Token system used in AI, and how it works theoretically and mathematically. <br>
+
+20-08-25<br>
+
+Traced back a hacker who hacked my father's phone and tried to dupe out his money.

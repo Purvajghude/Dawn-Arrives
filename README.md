@@ -26,4 +26,7 @@ Learnt about the Token system used in AI, and how it works theoretically and mat
 
 20-08-25<br>
 
-Traced back a hacker who hacked my father's phone and tried to dupe out his money.
+Traced back a hacker who hacked my father's phone and tried to dupe out his money. <br>
+
+1-09-2025 <br>
+damn discipline is hard to keep
